@@ -1,0 +1,7 @@
+﻿  Input.c
+c:\users\נועה דרוקר\documents\c lab\proj1\proj1\list.h(9): error C2014: preprocessor command must start as first nonwhite space
+c:\users\נועה דרוקר\documents\c lab\proj1\proj1\list.h(10): fatal error C1070: mismatched #if/#endif pair in file 'c:\users\נועה דרוקר\documents\c lab\proj1\proj1\list.h'
+  list.c
+c:\users\נועה דרוקר\documents\c lab\proj1\proj1\list.h(9): error C2014: preprocessor command must start as first nonwhite space
+c:\users\נועה דרוקר\documents\c lab\proj1\proj1\list.h(10): fatal error C1070: mismatched #if/#endif pair in file 'c:\users\נועה דרוקר\documents\c lab\proj1\proj1\list.h'
+  Generating Code...
