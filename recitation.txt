@@ -1,0 +1,12 @@
+after talking with the teacher:
+- delete spaces between '{' to else if.
+for exm:
+      if {
+          ...... 
+          }
+          else if{
+
+    should be:
+          if {
+          ...... 
+          } else if{ 
